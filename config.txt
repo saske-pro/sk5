@@ -1,6 +1,6 @@
 owner=468836034185265162
 prefix=!
-game=! SK ❦ | 5play
+game=5play
 stayinchannel=true
 songinstatus=false
 token=NTU5NjUwNjUxMTM5NzM1NTYy.D3qCJg.EPA4424ieC3ZZXgLA0-CcEr6hU4
