@@ -1,6 +1,6 @@
-owner=468836034185265162
-prefix=!
-game=5play
+owner=522221225934716931
+prefix=T
+game=TŏŐŏFý
 stayinchannel=true
 songinstatus=false
 token=NTU5NjUwNjUxMTM5NzM1NTYy.D3qCJg.EPA4424ieC3ZZXgLA0-CcEr6hU4
