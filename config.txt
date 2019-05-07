@@ -1,5 +1,5 @@
-owner=468836034185265162
-prefix=T
+owner=522221225934716931
+prefix=t
 game=TŏŐŏFý
 stayinchannel=true
 songinstatus=false
